@@ -5,7 +5,6 @@ import android.database.Cursor;
 import android.database.MatrixCursor;
 import android.os.Bundle;
 import android.provider.BaseColumns;
-import android.support.v7.app.AppCompatActivity;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.KeyEvent;
@@ -17,6 +16,7 @@ import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
 
 import com.dekoraktiv.android.rsr.constants.Extras;
+import com.dekoraktiv.android.rsr.converters.CustomConverterFactory;
 import com.dekoraktiv.android.rsr.endpoints.IApiService;
 import com.dekoraktiv.android.rsr.models.Stem;
 import com.dekoraktiv.android.rsr.models.Suggestion;
@@ -31,7 +31,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     @BindView(R.id.auto_complete_text_view)
     AutoCompleteTextView autoCompleteTextView;
@@ -119,9 +119,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void load(String word) {
+        showProgressDialog(R.string.dialog_progress_message);
+
         final Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://cdnapi.link/")
-                .addConverterFactory(GsonConverterFactory.create())
+                .baseUrl("http://hjp.znanje.hr/")
+                .addConverterFactory(CustomConverterFactory.create())
                 .build();
 
         final IApiService apiService = retrofit.create(IApiService.class);
@@ -130,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
         call.enqueue(new Callback<Stem>() {
             @Override
             public void onResponse(Call<Stem> call, Response<Stem> response) {
-                if (response.code() == 200) {
+                if (response.isSuccessful()) {
                     final Intent intent;
 
                     if (response.body().getDictionaries().size() > 1) {
@@ -142,11 +144,15 @@ public class MainActivity extends AppCompatActivity {
                     }
 
                     startActivity(intent);
+
+                    dismissProgressDialog();
                 }
             }
 
             @Override
             public void onFailure(Call<Stem> call, Throwable t) {
+                dismissProgressDialog();
+
                 Toast.makeText(getApplicationContext(), R.string.api_message_network,
                         Toast.LENGTH_SHORT).show();
             }
@@ -165,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
         call.enqueue(new Callback<List<Suggestion>>() {
             @Override
             public void onResponse(Call<List<Suggestion>> call, Response<List<Suggestion>> response) {
-                if (response.code() == 200) {
+                if (response.isSuccessful()) {
                     final MatrixCursor matrixCursor =
                             new MatrixCursor(new String[]{BaseColumns._ID,
                                     SUGGESTIONS_ADAPTER_COLUMN_SUGGESTION});
