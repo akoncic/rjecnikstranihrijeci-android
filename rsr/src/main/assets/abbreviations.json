@@ -1,0 +1,1814 @@
+{
+  "guidelines": [
+    {
+      "key": "A",
+      "value": "akuzativ"
+    },
+    {
+      "key": "admin.",
+      "value": "administracija"
+    },
+    {
+      "key": "agr.",
+      "value": "agronomija"
+    },
+    {
+      "key": "anal.",
+      "value": "analitički"
+    },
+    {
+      "key": "anat.",
+      "value": "anatomija"
+    },
+    {
+      "key": "ant.",
+      "value": "antika"
+    },
+    {
+      "key": "antrop.",
+      "value": "antropologija"
+    },
+    {
+      "key": "aor.",
+      "value": "aorist"
+    },
+    {
+      "key": "arh.",
+      "value": "arhaizam"
+    },
+    {
+      "key": "arheol.",
+      "value": "arheologija"
+    },
+    {
+      "key": "arhit.",
+      "value": "arhitektura"
+    },
+    {
+      "key": "astron.",
+      "value": "astronomija"
+    },
+    {
+      "key": "augm.",
+      "value": "augmentativ"
+    },
+    {
+      "key": "autom.",
+      "value": "automobilizam"
+    },
+    {
+      "key": "bal.",
+      "value": "balistika"
+    },
+    {
+      "key": "bank.",
+      "value": "bankarstvo"
+    },
+    {
+      "key": "bibl.",
+      "value": "biblijski"
+    },
+    {
+      "key": "biol.",
+      "value": "biologija"
+    },
+    {
+      "key": "Bl.",
+      "value": "Blaženi/a"
+    },
+    {
+      "key": "bot.",
+      "value": "botanika"
+    },
+    {
+      "key": "br.",
+      "value": "broj"
+    },
+    {
+      "key": "bud.",
+      "value": "budizam"
+    },
+    {
+      "key": "burz.",
+      "value": "burza"
+    },
+    {
+      "key": "crkv.",
+      "value": "crkveno"
+    },
+    {
+      "key": "čest.",
+      "value": "čestica"
+    },
+    {
+      "key": "D",
+      "value": "dativ"
+    },
+    {
+      "key": "dem.",
+      "value": "deminutiv"
+    },
+    {
+      "key": "dijal.",
+      "value": "dijalektalno"
+    },
+    {
+      "key": "dipl.",
+      "value": "diplomacija, diplomatski"
+    },
+    {
+      "key": "dosl.",
+      "value": "doslovno"
+    },
+    {
+      "key": "dv.",
+      "value": "dvovidni"
+    },
+    {
+      "key": "ekol.",
+      "value": "ekologija"
+    },
+    {
+      "key": "ekon.",
+      "value": "ekonomija"
+    },
+    {
+      "key": "ekspr.",
+      "value": "ekspresivno"
+    },
+    {
+      "key": "enkl.",
+      "value": "enklitika, enklitički"
+    },
+    {
+      "key": "etn.",
+      "value": "etnik"
+    },
+    {
+      "key": "etnol.",
+      "value": "etnologija, etnološki"
+    },
+    {
+      "key": "eufem.",
+      "value": "eufemizam"
+    },
+    {
+      "key": "fam.",
+      "value": "familijarno"
+    },
+    {
+      "key": "farm.",
+      "value": "farmacija, farmakologija"
+    },
+    {
+      "key": "fil.",
+      "value": "filozofija"
+    },
+    {
+      "key": "filat.",
+      "value": "filatelija"
+    },
+    {
+      "key": "film.",
+      "value": "filmski"
+    },
+    {
+      "key": "fiz.",
+      "value": "fizika"
+    },
+    {
+      "key": "fiziol.",
+      "value": "fiziologija"
+    },
+    {
+      "key": "fon.",
+      "value": "fonetika, fonetski"
+    },
+    {
+      "key": "G",
+      "value": "genitiv"
+    },
+    {
+      "key": "gener.",
+      "value": "generički"
+    },
+    {
+      "key": "genet.",
+      "value": "genetika"
+    },
+    {
+      "key": "geod.",
+      "value": "geodezija"
+    },
+    {
+      "key": "geogr.",
+      "value": "geografija"
+    },
+    {
+      "key": "geol.",
+      "value": "geologija"
+    },
+    {
+      "key": "gl.",
+      "value": "glagol"
+    },
+    {
+      "key": "gl. im.",
+      "value": "glagolska imenica"
+    },
+    {
+      "key": "glazb.",
+      "value": "glazba"
+    },
+    {
+      "key": "gov.",
+      "value": "govorno"
+    },
+    {
+      "key": "građ.",
+      "value": "građevinarstvo"
+    },
+    {
+      "key": "graf.",
+      "value": "grafika, grafički"
+    },
+    {
+      "key": "gram.",
+      "value": "gramatika, gramatički"
+    },
+    {
+      "key": "hidr.",
+      "value": "hidrologija"
+    },
+    {
+      "key": "hind.",
+      "value": "hinduizam"
+    },
+    {
+      "key": "hip.",
+      "value": "hipokoristik"
+    },
+    {
+      "key": "hrv.",
+      "value": "hrvatski"
+    },
+    {
+      "key": "I",
+      "value": "istok, istočno"
+    },
+    {
+      "key": "I",
+      "value": "instrumental"
+    },
+    {
+      "key": "ideol.",
+      "value": "ideološki"
+    },
+    {
+      "key": "im.",
+      "value": "imenica"
+    },
+    {
+      "key": "imp.",
+      "value": "imperativ"
+    },
+    {
+      "key": "impf.",
+      "value": "imperfekt"
+    },
+    {
+      "key": "indekl.",
+      "value": "indeklinabilno"
+    },
+    {
+      "key": "indiv.",
+      "value": "individualno"
+    },
+    {
+      "key": "inform.",
+      "value": "informatika"
+    },
+    {
+      "key": "int.",
+      "value": "internet"
+    },
+    {
+      "key": "iron.",
+      "value": "ironično"
+    },
+    {
+      "key": "isl.",
+      "value": "islam, islamski"
+    },
+    {
+      "key": "izg.",
+      "value": "izgovor"
+    },
+    {
+      "key": "izv.",
+      "value": "izvedeno (od)"
+    },
+    {
+      "key": "J",
+      "value": "jug, južno"
+    },
+    {
+      "key": "jd",
+      "value": "jednina"
+    },
+    {
+      "key": "jez. knjiž.",
+      "value": "jezik književnosti"
+    },
+    {
+      "key": "jud.",
+      "value": "judaizam"
+    },
+    {
+      "key": "kalk.",
+      "value": "kalkulacijski"
+    },
+    {
+      "key": "kat.",
+      "value": "katolički"
+    },
+    {
+      "key": "kazal.",
+      "value": "kazalište, kazališno"
+    },
+    {
+      "key": "kem.",
+      "value": "kemija"
+    },
+    {
+      "key": "kinol.",
+      "value": "kinologija"
+    },
+    {
+      "key": "knjiš.",
+      "value": "knjiški"
+    },
+    {
+      "key": "knjiž.",
+      "value": "književnost"
+    },
+    {
+      "key": "komp.",
+      "value": "komparativ"
+    },
+    {
+      "key": "konstr.",
+      "value": "konstruirano"
+    },
+    {
+      "key": "krat.",
+      "value": "kratica"
+    },
+    {
+      "key": "kršć.",
+      "value": "kršćanstvo, kršćanski"
+    },
+    {
+      "key": "kulin.",
+      "value": "kulinarstvo"
+    },
+    {
+      "key": "l.",
+      "value": "lice"
+    },
+    {
+      "key": "L",
+      "value": "lokativ"
+    },
+    {
+      "key": "lik.",
+      "value": "likovna umjetnost"
+    },
+    {
+      "key": "lingv.",
+      "value": "lingvistika"
+    },
+    {
+      "key": "log.",
+      "value": "logika"
+    },
+    {
+      "key": "lokal.",
+      "value": "lokalno"
+    },
+    {
+      "key": "lov.",
+      "value": "lovstvo, lovački"
+    },
+    {
+      "key": "m",
+      "value": "muški rod"
+    },
+    {
+      "key": "m.",
+      "value": "muško"
+    },
+    {
+      "key": "mat.",
+      "value": "matematika, matematički"
+    },
+    {
+      "key": "med.",
+      "value": "medicina, medicinski"
+    },
+    {
+      "key": "metaf.",
+      "value": "metaforički"
+    },
+    {
+      "key": "meteor.",
+      "value": "meteorologija"
+    },
+    {
+      "key": "meton.",
+      "value": "metonimijski"
+    },
+    {
+      "key": "mikronim.",
+      "value": "mikronimija"
+    },
+    {
+      "key": "mikrotop.",
+      "value": "mikrotoponimija"
+    },
+    {
+      "key": "mil.",
+      "value": "milijun"
+    },
+    {
+      "key": "min.",
+      "value": "mineralogija"
+    },
+    {
+      "key": "mit.",
+      "value": "mitologija"
+    },
+    {
+      "key": "Ml.",
+      "value": "Mlađi"
+    },
+    {
+      "key": "mn",
+      "value": "množina"
+    },
+    {
+      "key": "musl.",
+      "value": "muslimanski"
+    },
+    {
+      "key": "N",
+      "value": "nominativ"
+    },
+    {
+      "key": "nakn. shv.",
+      "value": "naknadno shvaćeno"
+    },
+    {
+      "key": "nar. pj.",
+      "value": "narodno pjesništvo"
+    },
+    {
+      "key": "neob.",
+      "value": "neobično"
+    },
+    {
+      "key": "neodom.",
+      "value": "neodomaćeno"
+    },
+    {
+      "key": "neodr.",
+      "value": "neodređeni oblik"
+    },
+    {
+      "key": "neol.",
+      "value": "neologizam"
+    },
+    {
+      "key": "nesvrš.",
+      "value": "nesvršeni"
+    },
+    {
+      "key": "neutr.",
+      "value": "neutralno"
+    },
+    {
+      "key": "npr.",
+      "value": "na primjer"
+    },
+    {
+      "key": "o.",
+      "value": "oko"
+    },
+    {
+      "key": "ob.",
+      "value": "obično"
+    },
+    {
+      "key": "obl.",
+      "value": "oblik"
+    },
+    {
+      "key": "odn.",
+      "value": "odnosno"
+    },
+    {
+      "key": "odr.",
+      "value": "određeni oblik"
+    },
+    {
+      "key": "onom.",
+      "value": "onomatopeja"
+    },
+    {
+      "key": "opr.",
+      "value": "oprečno"
+    },
+    {
+      "key": "orij.",
+      "value": "orijentalno"
+    },
+    {
+      "key": "os.",
+      "value": "osobno"
+    },
+    {
+      "key": "pat.",
+      "value": "patologija"
+    },
+    {
+      "key": "pčel.",
+      "value": "pčelarstvo"
+    },
+    {
+      "key": "pejor.",
+      "value": "pejorativno"
+    },
+    {
+      "key": "pleon.",
+      "value": "pleonazam"
+    },
+    {
+      "key": "pl. tantum ",
+      "value": "pluralia tantum"
+    },
+    {
+      "key": "poč.",
+      "value": "početkom"
+    },
+    {
+      "key": "podr.",
+      "value": "podrugljivo"
+    },
+    {
+      "key": "poet.",
+      "value": "poetski"
+    },
+    {
+      "key": "pol.",
+      "value": "politika, politički"
+    },
+    {
+      "key": "pol.",
+      "value": "polovicom"
+    },
+    {
+      "key": "pom.",
+      "value": "pomorstvo"
+    },
+    {
+      "key": "pom. gl.",
+      "value": "pomoćni glagol"
+    },
+    {
+      "key": "posl.",
+      "value": "poslovica"
+    },
+    {
+      "key": "posr.",
+      "value": "posredstvom"
+    },
+    {
+      "key": "potenc.",
+      "value": "potencijalno"
+    },
+    {
+      "key": "pov.",
+      "value": "povijest"
+    },
+    {
+      "key": "pov. umj.",
+      "value": "povijest umjetnosti"
+    },
+    {
+      "key": "pr.",
+      "value": "prezime"
+    },
+    {
+      "key": "pravn.",
+      "value": "pravo, pravnički"
+    },
+    {
+      "key": "pravosl.",
+      "value": "pravoslavno"
+    },
+    {
+      "key": "pren.",
+      "value": "preneseno značenje"
+    },
+    {
+      "key": "prez.",
+      "value": "prezent"
+    },
+    {
+      "key": "prid.",
+      "value": "pridjev"
+    },
+    {
+      "key": "prid. rad.",
+      "value": "pridjev radni"
+    },
+    {
+      "key": "prid. trp.",
+      "value": "pridjev trpni"
+    },
+    {
+      "key": "prij.",
+      "value": "prijedlog"
+    },
+    {
+      "key": "pr. Kr.",
+      "value": "prije Krista"
+    },
+    {
+      "key": "pril.",
+      "value": "prilog"
+    },
+    {
+      "key": "pril. pr.",
+      "value": "prilog prošli"
+    },
+    {
+      "key": "pril. sad.",
+      "value": "prilog sadašnji"
+    },
+    {
+      "key": "priv.",
+      "value": "privreda, privredni"
+    },
+    {
+      "key": "prom.",
+      "value": "promet"
+    },
+    {
+      "key": "psih.",
+      "value": "psihologija"
+    },
+    {
+      "key": "publ.",
+      "value": "publicistika, publicistički"
+    },
+    {
+      "key": "razg.",
+      "value": "razgovorno"
+    },
+    {
+      "key": "red.",
+      "value": "redni"
+    },
+    {
+      "key": "refer.",
+      "value": "referencijalno"
+    },
+    {
+      "key": "reg.",
+      "value": "regionalno"
+    },
+    {
+      "key": "rel.",
+      "value": "religija, religijski"
+    },
+    {
+      "key": "retor.",
+      "value": "retorički"
+    },
+    {
+      "key": "rib.",
+      "value": "ribarstvo, ribarski"
+    },
+    {
+      "key": "rij.",
+      "value": "rijetko"
+    },
+    {
+      "key": "rud.",
+      "value": "rudarstvo"
+    },
+    {
+      "key": "S",
+      "value": "sjever, sjeverno"
+    },
+    {
+      "key": "sg. tantum",
+      "value": "singularia tantum"
+    },
+    {
+      "key": "slav.",
+      "value": "slavenski"
+    },
+    {
+      "key": "slov.",
+      "value": "slovenski"
+    },
+    {
+      "key": "služb.",
+      "value": "službeno"
+    },
+    {
+      "key": "sociol.",
+      "value": "sociologija"
+    },
+    {
+      "key": "sport",
+      "value": "sport, sportski"
+    },
+    {
+      "key": "sr",
+      "value": "srednji rod"
+    },
+    {
+      "key": "sred.",
+      "value": "središnji"
+    },
+    {
+      "key": "srp.",
+      "value": "srpski"
+    },
+    {
+      "key": "stan.",
+      "value": "stanovnici"
+    },
+    {
+      "key": "stom.",
+      "value": "stomatologija"
+    },
+    {
+      "key": "st.",
+      "value": "stoljeće"
+    },
+    {
+      "key": "St.",
+      "value": "Stariji"
+    },
+    {
+      "key": "supl.",
+      "value": "supletivno"
+    },
+    {
+      "key": "Sv.",
+      "value": "Sveti/a"
+    },
+    {
+      "key": "svrš.",
+      "value": "svršeni"
+    },
+    {
+      "key": "šah",
+      "value": "šah, šahovski"
+    },
+    {
+      "key": "tehn.",
+      "value": "tehnika"
+    },
+    {
+      "key": "teol.",
+      "value": "teologija, teološki"
+    },
+    {
+      "key": "term.",
+      "value": "termin"
+    },
+    {
+      "key": "tipogr.",
+      "value": "tipografija"
+    },
+    {
+      "key": "tisk.",
+      "value": "tiskarstvo, tiskarski"
+    },
+    {
+      "key": "top.",
+      "value": "toponimija"
+    },
+    {
+      "key": "trg.",
+      "value": "trgovina, trgovački"
+    },
+    {
+      "key": "TV",
+      "value": "televizija"
+    },
+    {
+      "key": "tzv.",
+      "value": "tako zvani"
+    },
+    {
+      "key": "umj.",
+      "value": "umjetnost"
+    },
+    {
+      "key": "usp.",
+      "value": "usporedi"
+    },
+    {
+      "key": "uzv.",
+      "value": "uzvik"
+    },
+    {
+      "key": "V",
+      "value": "vokativ"
+    },
+    {
+      "key": "v.",
+      "value": "vidi"
+    },
+    {
+      "key": "vet.",
+      "value": "veterina"
+    },
+    {
+      "key": "vezn.",
+      "value": "veznik"
+    },
+    {
+      "key": "vojn.",
+      "value": "vojnički, vojni, u vojskama"
+    },
+    {
+      "key": "vulg.",
+      "value": "vulgarno"
+    },
+    {
+      "key": "Z",
+      "value": "zapad, zapadno"
+    },
+    {
+      "key": "zam.",
+      "value": "zamjenica"
+    },
+    {
+      "key": "zast.",
+      "value": "zastarjelo"
+    },
+    {
+      "key": "zauz. zn.",
+      "value": "zauzeto značenje"
+    },
+    {
+      "key": "zb.",
+      "value": "zbirno"
+    },
+    {
+      "key": "zn.",
+      "value": "značenje"
+    },
+    {
+      "key": "znanstv.",
+      "value": "znanstveno"
+    },
+    {
+      "key": "zool.",
+      "value": "zoologija"
+    },
+    {
+      "key": "ž",
+      "value": "ženski rod"
+    },
+    {
+      "key": "ž.",
+      "value": "žensko"
+    },
+    {
+      "key": "žarg.",
+      "value": "žargon, žargonski"
+    }
+  ],
+  "languages": [
+    {
+      "key": "afrikaans",
+      "value": "afrikaans"
+    },
+    {
+      "key": "ajmara",
+      "value": "ajmara"
+    },
+    {
+      "key": "akad.",
+      "value": "akadski"
+    },
+    {
+      "key": "alb.",
+      "value": "albanski"
+    },
+    {
+      "key": "aleut.",
+      "value": "aleutski"
+    },
+    {
+      "key": "algonkijski",
+      "value": "algonkijski"
+    },
+    {
+      "key": "amer.",
+      "value": "američki"
+    },
+    {
+      "key": "amer.engl.",
+      "value": "američki engleski"
+    },
+    {
+      "key": "amer.šp.",
+      "value": "američki španjolski"
+    },
+    {
+      "key": "amhar.",
+      "value": "amharski"
+    },
+    {
+      "key": "ant.",
+      "value": "antički"
+    },
+    {
+      "key": "aram.",
+      "value": "aramejski"
+    },
+    {
+      "key": "arap.",
+      "value": "arapski"
+    },
+    {
+      "key": "aravački",
+      "value": "aravački"
+    },
+    {
+      "key": "armen.",
+      "value": "armenski"
+    },
+    {
+      "key": "asir.",
+      "value": "asirski"
+    },
+    {
+      "key": "atički",
+      "value": "atički"
+    },
+    {
+      "key": "austr.",
+      "value": "austrijski"
+    },
+    {
+      "key": "austr.njem.",
+      "value": "austrijski njemački"
+    },
+    {
+      "key": "austral.aboridž.",
+      "value": "australski aboridžinski"
+    },
+    {
+      "key": "avar.",
+      "value": "avarski"
+    },
+    {
+      "key": "avest.",
+      "value": "avestički"
+    },
+    {
+      "key": "bambara",
+      "value": "bambara"
+    },
+    {
+      "key": "bantu",
+      "value": "bantu"
+    },
+    {
+      "key": "bask.",
+      "value": "baskijski"
+    },
+    {
+      "key": "bav.",
+      "value": "bavarski"
+    },
+    {
+      "key": "bengal.",
+      "value": "bengalski"
+    },
+    {
+      "key": "berb.",
+      "value": "berberski"
+    },
+    {
+      "key": "bizant.grč.",
+      "value": "bizantski grčki"
+    },
+    {
+      "key": "bjrus.",
+      "value": "bjeloruski"
+    },
+    {
+      "key": "braz.port.",
+      "value": "brazilski portugalski"
+    },
+    {
+      "key": "bret.",
+      "value": "bretonski"
+    },
+    {
+      "key": "bug.",
+      "value": "bugarski"
+    },
+    {
+      "key": "bur.",
+      "value": "burski"
+    },
+    {
+      "key": "burm.",
+      "value": "burmanski"
+    },
+    {
+      "key": "cslav.",
+      "value": "crkvenoslavenski"
+    },
+    {
+      "key": "češ.",
+      "value": "češki"
+    },
+    {
+      "key": "dalmat.",
+      "value": "dalmatski"
+    },
+    {
+      "key": "dan.",
+      "value": "danski"
+    },
+    {
+      "key": "drav.",
+      "value": "dravidski"
+    },
+    {
+      "key": "egip.",
+      "value": "egipatski"
+    },
+    {
+      "key": "egz.",
+      "value": "egzotično"
+    },
+    {
+      "key": "engl.",
+      "value": "engleski"
+    },
+    {
+      "key": "esk.",
+      "value": "eskimski"
+    },
+    {
+      "key": "esper.",
+      "value": "esperanto"
+    },
+    {
+      "key": "etiop.",
+      "value": "etiopski"
+    },
+    {
+      "key": "etrušč.",
+      "value": "etruščanski"
+    },
+    {
+      "key": "fen.",
+      "value": "fenički"
+    },
+    {
+      "key": "fiđ.",
+      "value": "fiđijski (fidžijski)"
+    },
+    {
+      "key": "fin.",
+      "value": "finski"
+    },
+    {
+      "key": "flam.",
+      "value": "flamanski"
+    },
+    {
+      "key": "fr.",
+      "value": "francuski"
+    },
+    {
+      "key": "fran.",
+      "value": "franački"
+    },
+    {
+      "key": "furl.",
+      "value": "furlanski"
+    },
+    {
+      "key": "gal.",
+      "value": "galski"
+    },
+    {
+      "key": "gal.roman.",
+      "value": "galoromanski"
+    },
+    {
+      "key": "gask.",
+      "value": "gaskonjski"
+    },
+    {
+      "key": "germ.",
+      "value": "germanski"
+    },
+    {
+      "key": "gluž.",
+      "value": "gornjolužički"
+    },
+    {
+      "key": "got.",
+      "value": "gotski"
+    },
+    {
+      "key": "grč.",
+      "value": "grčki"
+    },
+    {
+      "key": "grnl.",
+      "value": "grenlandski"
+    },
+    {
+      "key": "gruz.",
+      "value": "gruzijski"
+    },
+    {
+      "key": "gudžarat.",
+      "value": "gudžaratski"
+    },
+    {
+      "key": "haićanski",
+      "value": "haićanski"
+    },
+    {
+      "key": "havaj.",
+      "value": "havajski"
+    },
+    {
+      "key": "hebr.",
+      "value": "hebrejski"
+    },
+    {
+      "key": "hetit.",
+      "value": "hetitski"
+    },
+    {
+      "key": "hind.",
+      "value": "hindski"
+    },
+    {
+      "key": "hotentotski",
+      "value": "hotentotski"
+    },
+    {
+      "key": "ie.",
+      "value": "indoeuropski"
+    },
+    {
+      "key": "ilir.",
+      "value": "ilirski"
+    },
+    {
+      "key": "indij.",
+      "value": "indijski"
+    },
+    {
+      "key": "indonez.",
+      "value": "indonezijski"
+    },
+    {
+      "key": "inuit",
+      "value": "inuit"
+    },
+    {
+      "key": "ir.",
+      "value": "irski"
+    },
+    {
+      "key": "ir.gael.",
+      "value": "irski gaelski"
+    },
+    {
+      "key": "iran.",
+      "value": "iranski"
+    },
+    {
+      "key": "irokijski",
+      "value": "irokijski"
+    },
+    {
+      "key": "island.",
+      "value": "islandski"
+    },
+    {
+      "key": "istroroman.",
+      "value": "istroromanski"
+    },
+    {
+      "key": "jakutski",
+      "value": "jakutski"
+    },
+    {
+      "key": "jamajk.engl.",
+      "value": "jamajski engleski"
+    },
+    {
+      "key": "jap.",
+      "value": "japanski"
+    },
+    {
+      "key": "jav.",
+      "value": "javanski"
+    },
+    {
+      "key": "jidiš",
+      "value": "jidiš"
+    },
+    {
+      "key": "joruba",
+      "value": "joruba"
+    },
+    {
+      "key": "kambodž.",
+      "value": "kambodžanski"
+    },
+    {
+      "key": "kan.fr.",
+      "value": "kanadski francuski"
+    },
+    {
+      "key": "kantonski",
+      "value": "kantonski"
+    },
+    {
+      "key": "karaim.",
+      "value": "karaimski"
+    },
+    {
+      "key": "karip.",
+      "value": "karipski"
+    },
+    {
+      "key": "karip.šp.",
+      "value": "karipski španjolski"
+    },
+    {
+      "key": "kast.",
+      "value": "kastiljanski"
+    },
+    {
+      "key": "kašup.",
+      "value": "kašupski"
+    },
+    {
+      "key": "katal.",
+      "value": "katalonski"
+    },
+    {
+      "key": "kaz.tat.",
+      "value": "kazanskotatarski"
+    },
+    {
+      "key": "kečuan.",
+      "value": "kečuanski"
+    },
+    {
+      "key": "kelt.",
+      "value": "keltski"
+    },
+    {
+      "key": "khmer.",
+      "value": "khmerski"
+    },
+    {
+      "key": "kimbundu",
+      "value": "kimbundu"
+    },
+    {
+      "key": "kin.",
+      "value": "kineski"
+    },
+    {
+      "key": "kirg.",
+      "value": "kirgiski"
+    },
+    {
+      "key": "kor.",
+      "value": "korejski"
+    },
+    {
+      "key": "kpt.",
+      "value": "koptski"
+    },
+    {
+      "key": "krim.tat.",
+      "value": "krimski tatarski"
+    },
+    {
+      "key": "kub.šp.",
+      "value": "kubanski španjolski"
+    },
+    {
+      "key": "kurd.",
+      "value": "kurdski"
+    },
+    {
+      "key": "langobard.",
+      "value": "langobardski"
+    },
+    {
+      "key": "lap.",
+      "value": "laponski"
+    },
+    {
+      "key": "lat.",
+      "value": "latinski"
+    },
+    {
+      "key": "lat.grč.",
+      "value": "latinski grčki"
+    },
+    {
+      "key": "latv.",
+      "value": "latvijski"
+    },
+    {
+      "key": "lit.",
+      "value": "litavski"
+    },
+    {
+      "key": "mađ.",
+      "value": "mađarski"
+    },
+    {
+      "key": "mak.",
+      "value": "makedonski"
+    },
+    {
+      "key": "mal.",
+      "value": "malajski"
+    },
+    {
+      "key": "mald.",
+      "value": "maldivski"
+    },
+    {
+      "key": "malg.",
+      "value": "malgaški"
+    },
+    {
+      "key": "maor.",
+      "value": "maorski"
+    },
+    {
+      "key": "mediteran.",
+      "value": "mediteranski"
+    },
+    {
+      "key": "meks.šp.",
+      "value": "meksički španjolski"
+    },
+    {
+      "key": "mjanmar",
+      "value": "mjanmar"
+    },
+    {
+      "key": "mlet.",
+      "value": "venecijanski (mletački) talijanski"
+    },
+    {
+      "key": "mong.",
+      "value": "mongolski"
+    },
+    {
+      "key": "mujan.",
+      "value": "mujanski"
+    },
+    {
+      "key": "nahuatl",
+      "value": "nahuatl"
+    },
+    {
+      "key": "neoskr.",
+      "value": "neosanskrtski"
+    },
+    {
+      "key": "ngrč.",
+      "value": "novogrčki"
+    },
+    {
+      "key": "nindij.",
+      "value": "novoindijski"
+    },
+    {
+      "key": "nizoz.",
+      "value": "nizozemski"
+    },
+    {
+      "key": "nlat.",
+      "value": "novolatinski"
+    },
+    {
+      "key": "nord.",
+      "value": "nordijski"
+    },
+    {
+      "key": "norv.",
+      "value": "norveški"
+    },
+    {
+      "key": "njem.",
+      "value": "njemački"
+    },
+    {
+      "key": "oset.",
+      "value": "osetski"
+    },
+    {
+      "key": "pali",
+      "value": "pali"
+    },
+    {
+      "key": "perz.",
+      "value": "perzijski"
+    },
+    {
+      "key": "polinez.",
+      "value": "polinezijski"
+    },
+    {
+      "key": "polj.",
+      "value": "poljski"
+    },
+    {
+      "key": "port.",
+      "value": "portugalski"
+    },
+    {
+      "key": "post.bibl.hebr.",
+      "value": "postbiblijski hebrejski"
+    },
+    {
+      "key": "prasl.",
+      "value": "praslavenski"
+    },
+    {
+      "key": "predslav.",
+      "value": "predslavenski"
+    },
+    {
+      "key": "protobug.",
+      "value": "protobugarski"
+    },
+    {
+      "key": "prov.",
+      "value": "provansalski"
+    },
+    {
+      "key": "pseudolat.",
+      "value": "pseudolatinski"
+    },
+    {
+      "key": "pseudošp.",
+      "value": "pseudošpanjolski"
+    },
+    {
+      "key": "punski",
+      "value": "punski"
+    },
+    {
+      "key": "rom.",
+      "value": "romski"
+    },
+    {
+      "key": "roman.",
+      "value": "romanski"
+    },
+    {
+      "key": "rum.",
+      "value": "rumunjski"
+    },
+    {
+      "key": "rus.",
+      "value": "ruski"
+    },
+    {
+      "key": "rus.cslav.",
+      "value": "ruskocrkvenoslavenski"
+    },
+    {
+      "key": "rusin.",
+      "value": "rusinski"
+    },
+    {
+      "key": "samoan.",
+      "value": "samoanski"
+    },
+    {
+      "key": "sicil.",
+      "value": "sicilijanski"
+    },
+    {
+      "key": "sinh.",
+      "value": "sinhalski (sinhaleški)"
+    },
+    {
+      "key": "sjevtal.",
+      "value": "sjevernotalijanski"
+    },
+    {
+      "key": "skand.",
+      "value": "skandinavski"
+    },
+    {
+      "key": "skr.",
+      "value": "sanskrtski"
+    },
+    {
+      "key": "sl.",
+      "value": "slovački"
+    },
+    {
+      "key": "slav.",
+      "value": "slavenski"
+    },
+    {
+      "key": "slov.",
+      "value": "slovenski"
+    },
+    {
+      "key": "somalijski",
+      "value": "somalijski"
+    },
+    {
+      "key": "srednjoindij.",
+      "value": "srednjoindijski"
+    },
+    {
+      "key": "srengl.",
+      "value": "srednjovjekovni engleski"
+    },
+    {
+      "key": "srfr.",
+      "value": "srednjovjekovni francuski"
+    },
+    {
+      "key": "srgrč.",
+      "value": "srednjovjekovni grčki"
+    },
+    {
+      "key": "srir.",
+      "value": "srednjovjekovni irski"
+    },
+    {
+      "key": "srlat.",
+      "value": "srednjovjekovni latinski"
+    },
+    {
+      "key": "srnnjem.",
+      "value": "srednjoniskonjemački"
+    },
+    {
+      "key": "srp.",
+      "value": "srpski"
+    },
+    {
+      "key": "srprov.",
+      "value": "srednjovjekovni provansalski"
+    },
+    {
+      "key": "srvnjem.",
+      "value": "srednjovisokonjemački"
+    },
+    {
+      "key": "stčeš.",
+      "value": "staročeški"
+    },
+    {
+      "key": "stegip.",
+      "value": "staroegipatski"
+    },
+    {
+      "key": "stengl.",
+      "value": "staroengleski"
+    },
+    {
+      "key": "stfr.",
+      "value": "starofrancuski"
+    },
+    {
+      "key": "stgrč.",
+      "value": "starogrčki"
+    },
+    {
+      "key": "stindij.",
+      "value": "staroindijski"
+    },
+    {
+      "key": "stir.",
+      "value": "staroirski"
+    },
+    {
+      "key": "stisland.",
+      "value": "staroislandski"
+    },
+    {
+      "key": "stlit.",
+      "value": "starolitvanski"
+    },
+    {
+      "key": "stnizoz.",
+      "value": "staronizozemski"
+    },
+    {
+      "key": "stnord.",
+      "value": "staronordijski"
+    },
+    {
+      "key": "stnorv.",
+      "value": "staronorveški"
+    },
+    {
+      "key": "stperz.",
+      "value": "staroperzijski"
+    },
+    {
+      "key": "stpolj.",
+      "value": "staropoljski"
+    },
+    {
+      "key": "stprov.",
+      "value": "staroprovansalski"
+    },
+    {
+      "key": "stprus.",
+      "value": "staropruski"
+    },
+    {
+      "key": "strcsl.",
+      "value": "starocrkvenoslavenski"
+    },
+    {
+      "key": "strus.",
+      "value": "staroruski"
+    },
+    {
+      "key": "stskand.",
+      "value": "staroskandinavski"
+    },
+    {
+      "key": "stsl.",
+      "value": "staroslavenski"
+    },
+    {
+      "key": "stšp.",
+      "value": "starošpanjolski"
+    },
+    {
+      "key": "sttal.",
+      "value": "starotalijanski"
+    },
+    {
+      "key": "sttur.",
+      "value": "staroturski"
+    },
+    {
+      "key": "stvnjem.",
+      "value": "starovisokonjemački"
+    },
+    {
+      "key": "sudanski",
+      "value": "sudanski"
+    },
+    {
+      "key": "škot.",
+      "value": "škotski"
+    },
+    {
+      "key": "škot.gael.",
+      "value": "škotski gaelski"
+    },
+    {
+      "key": "škot.gal.",
+      "value": "škotsko-galski"
+    },
+    {
+      "key": "šp.",
+      "value": "španjolski"
+    },
+    {
+      "key": "švap.",
+      "value": "švapski"
+    },
+    {
+      "key": "šved.",
+      "value": "švedski"
+    },
+    {
+      "key": "švic.njem.",
+      "value": "švicarski njemački"
+    },
+    {
+      "key": "tadž.",
+      "value": "tadžički"
+    },
+    {
+      "key": "tagalog",
+      "value": "tagalog"
+    },
+    {
+      "key": "taj.",
+      "value": "tajski"
+    },
+    {
+      "key": "tajl.",
+      "value": "tajlandski"
+    },
+    {
+      "key": "tal.",
+      "value": "talijanski"
+    },
+    {
+      "key": "tamil.",
+      "value": "tamilski"
+    },
+    {
+      "key": "tat.",
+      "value": "tatarski"
+    },
+    {
+      "key": "tibet.",
+      "value": "tibetski"
+    },
+    {
+      "key": "tohar.",
+      "value": "toharski"
+    },
+    {
+      "key": "trački",
+      "value": "trački"
+    },
+    {
+      "key": "tupi",
+      "value": "tupi"
+    },
+    {
+      "key": "tur.",
+      "value": "turski"
+    },
+    {
+      "key": "tur.tat.",
+      "value": "turskotatarski"
+    },
+    {
+      "key": "turk.",
+      "value": "turkijski"
+    },
+    {
+      "key": "turkm.",
+      "value": "turkmenski"
+    },
+    {
+      "key": "ukr.",
+      "value": "ukrajinski"
+    },
+    {
+      "key": "urd.",
+      "value": "urdski"
+    },
+    {
+      "key": "velš.",
+      "value": "velški"
+    },
+    {
+      "key": "vijandot",
+      "value": "vijandot"
+    },
+    {
+      "key": "vijetn.",
+      "value": "vijetnamski"
+    },
+    {
+      "key": "zulu ",
+      "value": "zulu"
+    }
+  ]
+}
