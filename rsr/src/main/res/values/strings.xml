@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Rječnik Stranih Riječi</string>
+
+    <string name="text_view_search_title">Rječnik Stranih Riječi</string>
+    <string name="text_view_search_provider">Izvor: Hrvatski Jezični Portal</string>
+    <string name="text_view_search_hint">Pretraga…</string>
+    <string name="text_view_search_instructions">Za pretraživanje rječničke baze upišite traženu riječ u polje za pretraživanje, odaberite natuknicu iz padajućeg izbornika ili dodirnite tipku za pretraživanje na tipkovnici.</string>
+
+    <string name="menu_action_abbreviations">Kratice</string>
+
+    <string name="activity_title_main">Rječnik Stranih Riječi</string>
+    <string name="activity_title_list">Rezultati Pretrage</string>
+    <string name="activity_title_detail">Natuknica</string>
+    <string name="activity_title_abbreviation">Kratice</string>
+
+    <string name="tab_title_definition">Definicija</string>
+    <string name="tab_title_phrase">Sintagma</string>
+    <string name="tab_title_phraseology">Frazeologija</string>
+    <string name="tab_title_onomastics">Onomastika</string>
+    <string name="tab_title_etymology">Etimologija</string>
+
+    <string name="tab_title_guidelines">Odrednice</string>
+    <string name="tab_title_languages">Jezici</string>
+
+    <string name="dialog_progress_message">Učitavanje…</string>
+
+    <string name="api_message_null">Nije pronađen niti jedan rezultat koji odgovara zadanom kriteriju pretrage.</string>
+    <string name="api_message_deprecated">Pretraga nije uspjela. Molimo posjetite Google Play servis i nadogradite aplikaciju.</string>
+    <string name="api_message_network">Povezivanje s poslužiteljem nije uspjelo. Molimo provjerite mrežne postavke Vašeg uređaja i pokušajte ponovno.</string>
+</resources>
