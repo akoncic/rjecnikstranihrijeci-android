@@ -28,8 +28,9 @@
                     android:id="@+id/text_view_title"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="8dp"
                     android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:fontFamily="@font/font_libersina"
                     android:text="@string/text_view_search_title"
                     android:textAppearance="?android:attr/textAppearanceMedium"/>
 
